@@ -1,0 +1,8 @@
+**/node_modules/
+**/dist/
+back/config.json
+back/aiLLM/.env
+front/.env
+*.log
+.vscode/
+

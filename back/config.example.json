@@ -1,0 +1,9 @@
+{
+  "database_dsn": "username:password@tcp(127.0.0.1:3306)/vue_login_demo?charset=utf8mb4&parseTime=true&loc=Local",
+  "siliconflow_api_key": "sk-your-siliconflow-api-key",
+  "jwt_signing_secret": "replace-with-a-long-random-secret",
+  "server_host": "127.0.0.1",
+  "server_port": "8091",
+  "cookie_domain": "",
+  "cookie_secure": false
+}
